@@ -1,0 +1,3 @@
+C:/Users/Lenovo/CLionProjects/Mang2D/cmake-build-debug/CMakeFiles/Mang2D.dir
+C:/Users/Lenovo/CLionProjects/Mang2D/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/CLionProjects/Mang2D/cmake-build-debug/CMakeFiles/rebuild_cache.dir
